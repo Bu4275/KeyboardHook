@@ -8,3 +8,11 @@ c:\users\bubu\documents\visual studio 2013\Projects\KeyboardHook\KeyboardHook\ob
 c:\users\bubu\documents\visual studio 2013\Projects\KeyboardHook\KeyboardHook\obj\Debug\KeyboardHook.pdb
 C:\Users\Bubu\Desktop\Application\GitHub\KeyboardHook\KeyboardHook\obj\Debug\KeyboardHook.exe
 C:\Users\Bubu\Desktop\Application\GitHub\KeyboardHook\KeyboardHook\obj\Debug\KeyboardHook.pdb
+C:\Users\bubu\Desktop\KeyboardHook-master\KeyboardHook\obj\Debug\KeyboardHook.exe
+C:\Users\bubu\Desktop\KeyboardHook-master\KeyboardHook\obj\Debug\KeyboardHook.pdb
+C:\Users\bubu\Desktop\KeyboardHook-master\KeyboardHook\bin\Debug\KeyboardHook.exe
+C:\Users\bubu\Desktop\KeyboardHook-master\KeyboardHook\bin\Debug\KeyboardHook.pdb
+C:\Users\bubu\Desktop\KeyboardHook-master\KeyboardHook\obj\Debug\KeyboardHook.csprojResolveAssemblyReference.cache
+C:\Users\bubu\Desktop\KeyboardHook-master\KeyboardHook\obj\Debug\KeyboardHook.Form1.resources
+C:\Users\bubu\Desktop\KeyboardHook-master\KeyboardHook\obj\Debug\KeyboardHook.Properties.Resources.resources
+C:\Users\bubu\Desktop\KeyboardHook-master\KeyboardHook\obj\Debug\KeyboardHook.csproj.GenerateResource.Cache

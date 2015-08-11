@@ -27,15 +27,17 @@ namespace KeyboardHook
         private void MyKeyUp(object sender, KeyEventArgs e)
         {
             richTextBox1.AppendText("KeyUp: " + e.KeyData.ToString() + "\n");
+            richTextBox1.ScrollToCaret();
         }
         private void MyKeyPress(object sender, KeyPressEventArgs e)
         {
             richTextBox1.AppendText("KeyPress: " + e.KeyChar.ToString() + "\n");
-
+            richTextBox1.ScrollToCaret();
         }
         private void MyKeyDown(object sender, KeyEventArgs e)
         {
             richTextBox1.AppendText("KeyDown: " + e.KeyData.ToString() + "\n");
+            richTextBox1.ScrollToCaret();
         }
         private void MouseMoved(object sender, MouseEventArgs e)
         {
@@ -44,6 +46,7 @@ namespace KeyboardHook
             if (e.Clicks > 0)
             {
                 richTextBox1.AppendText("Mouse: " + e.Button.ToString() + "\n");
+                richTextBox1.ScrollToCaret();
             }
 
         }

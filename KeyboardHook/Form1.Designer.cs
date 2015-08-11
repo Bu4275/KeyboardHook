@@ -37,9 +37,9 @@
             // 
             // richTextBox1
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(12, 60);
+            this.richTextBox1.Location = new System.Drawing.Point(12, 12);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(245, 219);
+            this.richTextBox1.Size = new System.Drawing.Size(331, 275);
             this.richTextBox1.TabIndex = 0;
             this.richTextBox1.Text = "";
             // 
@@ -57,13 +57,13 @@
             // toolStripStatusLabel1
             // 
             this.toolStripStatusLabel1.Name = "toolStripStatusLabel1";
-            this.toolStripStatusLabel1.Size = new System.Drawing.Size(16, 17);
+            this.toolStripStatusLabel1.Size = new System.Drawing.Size(15, 17);
             this.toolStripStatusLabel1.Text = "X";
             // 
             // toolStripStatusLabel2
             // 
             this.toolStripStatusLabel2.Name = "toolStripStatusLabel2";
-            this.toolStripStatusLabel2.Size = new System.Drawing.Size(15, 17);
+            this.toolStripStatusLabel2.Size = new System.Drawing.Size(14, 17);
             this.toolStripStatusLabel2.Text = "Y";
             // 
             // Form1
